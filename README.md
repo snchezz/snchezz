@@ -1,6 +1,29 @@
-### Hello! Welcome to my GitHub! ⚡
-I'm Andrés, a Full Stack Developer and Cybersecurity student! 🛡️
-Enthusiastic of all technologies, in continuous learning 💻
+# [AndresSanchez]
+
+* Hello! Welcome to my GitHub! ⚡
+* I'm a Full Stack Developer and Cybersecurity student! 🛡️
+* Enthusiastic of all technologies, in continuous learning 💻
+
+## The main technologies I handle are:
+
+* **HTML** 
+* **CSS**
+* **JavaScript**
+* **Angular**
+* **Materialize/Bootstrap**
+
+## Areas to which I dedicate myself:
+
+* **Frontend Developer**
+* **Backend Developer**
+* **Cybersecurity (Still studying)**
+
+## Another things I do it:
+
+* **Mobile repair technician**
+* **Photography**
+* **Youtube channel editor (Davinci Resolve | VN)**
+* **Image process in Photoshop**
 
 <!--
 **snchezz/snchezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
