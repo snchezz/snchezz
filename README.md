@@ -13,7 +13,7 @@
 * **Materialize/Bootstrap**
 
 ## Areas to which I dedicate myself:
-
+* **Android Developer**
 * **Frontend Developer**
 * **Backend Developer**
 * **Cybersecurity (Still studying)**
