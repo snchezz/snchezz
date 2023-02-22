@@ -5,7 +5,8 @@
 * Enthusiastic of all technologies, in continuous learning 💻
 
 ## The main technologies I handle are:
-
+* **Java** 
+* **Springboot** 
 * **HTML** 
 * **CSS**
 * **JavaScript**
@@ -14,6 +15,7 @@
 
 ## Areas to which I dedicate myself:
 * **Android Developer**
+* **Web Developer**
 * **Frontend Developer**
 * **Backend Developer**
 * **Cybersecurity (Still studying)**
