@@ -6,12 +6,9 @@
 
 ## The main technologies I handle are:
 * **Java** 
-* **Springboot** 
-* **HTML** 
-* **CSS**
-* **JavaScript**
-* **Angular**
-* **Materialize/Bootstrap**
+* **Angular / Springboot** 
+* **HTML, CSS & JavaScript** 
+* **Materialize / Bootstrap**
 
 ## Areas to which I dedicate myself:
 * **Android Developer**
