@@ -1,7 +1,7 @@
 # [ AndresSanchez ]
 
 * Hello! Welcome to my GitHub! ⚡
-* I'm a Full Stack Developer and Cybersecurity student! 🛡️
+* I'm a Full Stack Developer and Cybersecurity expert! 🛡️
 * Enthusiastic of all technologies, in continuous learning 💻
 
 ## The main technologies I handle are:
