@@ -5,7 +5,7 @@
 * Enthusiastic of all technologies, in continuous learning 💻
 
 ## The main technologies I handle are:
-* **Java** 
+* **Java / Kotlin** 
 * **Angular / Springboot** 
 * **HTML, CSS & JavaScript** 
 * **Materialize / Bootstrap**
