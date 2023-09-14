@@ -10,12 +10,15 @@
 * **HTML, CSS & JavaScript** 
 * **Materialize / Bootstrap**
 
+## Cybersecurity:
+* To do it
+
 ## Areas to which I dedicate myself:
 * **Android Developer**
 * **Web Developer**
 * **Frontend Developer**
 * **Backend Developer**
-* **Cybersecurity (Still studying)**
+* **Cybersecurity**
 
 ## Another things I do it:
 
