@@ -11,7 +11,8 @@
 * **Materialize / Bootstrap**
 
 ## Cybersecurity:
-* To do it
+Hands-on learning in incident management, system hardening, and forensic analysis. Implementation of secure code and protected production deployment. Work with standards such as ISO 27001 and tools like Autopsy, Wireshark, Nmap, and FTK. Management and deployment of the ELK stack for monitoring and analysis.
+
 
 ## Areas to which I dedicate myself:
 * **Android Developer**
